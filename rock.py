@@ -8,5 +8,3 @@ elif player1 == '바위'
 elif player1 == '보':
  
 else
-
-
